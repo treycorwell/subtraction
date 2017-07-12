@@ -5,3 +5,5 @@ def subtract(a,b)
 end
 
 	p subtract(45,32)
+	p subtract(125,12)
+	
